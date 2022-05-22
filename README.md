@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Muhammet+Ali+CEYLAN....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm++Muhammet+Ali+CEYLAN....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h5 align="center">
@@ -63,6 +63,8 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=malicyln&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+<br><br>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/malicyln?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
