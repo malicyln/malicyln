@@ -6,7 +6,7 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a  href="https://www.linkedin.com/in/muhammet-ali-ceylan-482a0022a/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
+  <code><a  href="https://www.linkedin.com/in/muhammet-ali-ceylan-482a0022a/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg" target="_blank"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
