@@ -91,10 +91,13 @@
 </div>
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-<h2 align="center">My Projects</h2>
-
-###
-
+## :star2: My Projects:
+<a href="https://github.com/axel-ac/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/projects.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS.png" style="height:60px; width: fit-content;" ></a>
+</br></br>
+<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS-Q.png" style="height:60px; width: fit-content;" ></a>
+</br>
 <h2 align="center">My Top Projects</h2>
 ###
 Project Demo       |Libraries and Technologies I use     |Project Preview
@@ -102,7 +105,6 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [IOS Calculator](https://axel-ac.github.io/IOS-calculator/) <h3>[Repo](https://github.com/axel-ac/IOS-calculator)</h3> | Vanilla JS | ![IOS-Calculator](https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif)
 [Bootstrap Web Page](https://axel-ac.github.io/Boostrap-Project/) <h3>[Repo](https://github.com/axel-ac/Boostrap-Project)</h3> | Boostrap |![Boostrap-Project](https://user-images.githubusercontent.com/102467587/219783358-be888a33-5332-45ef-bc40-5a6adeb73b8e.gif)
 [Sass Website Page Design](https://axel-ac.github.io/Sass-project/) <h3>[Repo](https://github.com/axel-ac/Sass-project)</h3> | Sass, Scss |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)
-
 
 
 <br>
