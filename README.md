@@ -92,20 +92,19 @@
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 ## :star2: My Projects:
-<a href="https://github.com/malicyln/react-projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/projects.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/malicyln/javascript-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/malicyln/Html-Css-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/malicyln/react-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/react.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/malicyln/javascript-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/javascript.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/malicyln/Html-Css-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html-css.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
-<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS-Q.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/javascript-questions.png" style="height:60px; width: fit-content;" ></a>
 </br>
 <h2 align="center">My Top Projects</h2>
 ###
 Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
-[IOS Calculator](https://axel-ac.github.io/IOS-calculator/) <h3>[Repo](https://github.com/axel-ac/IOS-calculator)</h3> | Vanilla JS | ![IOS-Calculator](https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif)
-[Bootstrap Web Page](https://axel-ac.github.io/Boostrap-Project/) <h3>[Repo](https://github.com/axel-ac/Boostrap-Project)</h3> | Boostrap |![Boostrap-Project](https://user-images.githubusercontent.com/102467587/219783358-be888a33-5332-45ef-bc40-5a6adeb73b8e.gif)
-[Sass Website Page Design](https://axel-ac.github.io/Sass-project/) <h3>[Repo](https://github.com/axel-ac/Sass-project)</h3> | Sass, Scss |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)
-
+[IOS Calculator](https://github.com/malicyln/Ios_Calculator/) <h3>[Repo](https://github.com/malicyln/Ios_Calculator)</h3> | Vanilla JS | ![IOS-Calculator](https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif)
+[Bootstrap Web Page](https://github.com/malicyln/it-company-bootstrap/) <h3>[Repo](https://github.com/malicyln/it-company-bootstrap)</h3> | Boostrap |![Boostrap-Project](https://user-images.githubusercontent.com/102467587/219783358-be888a33-5332-45ef-bc40-5a6adeb73b8e.gif)
+[Snake Game Projects](https://github.com/malicyln/snake-game/) <h3>[Repo](https://github.com/malicyln/snake-game)</h3> | Html, Css, JavaScript |![Snake-Game](https://user-images.githubusercontent.com/101462384/230424419-72d3475a-1978-44da-9dc5-2e3d50281ba3.gif)
 
 <br>
 
