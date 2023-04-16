@@ -72,8 +72,11 @@
 </br></br>
 <a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/js-questions.png" style="height:60px; width: fit-content;" ></a>
 </br>
+
 <h2 align="center">My Top Projects</h2>
+
 ###
+
 Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [IOS Calculator](https://my-ios-calculator.netlify.app) <h3>[Repo](https://github.com/malicyln/Ios_Calculator)</h3> | Vanilla JS | ![IOS-Calculator](https://user-images.githubusercontent.com/101462384/232289755-8b0d4168-59bd-4542-a9b3-953ac34b7bcb.gif)
