@@ -65,12 +65,14 @@
 </div>
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-## :star2: My Projects: <br>
-<a href="https://github.com/axel-ac/React-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/react-projects.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/js-projects.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/html-css-projects.png" style="height:60px; width: fit-content;" ></a>
+
+## :star2: My Projects: <br><br>
+
+<a href="https://github.com/malicyln/react-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/react-projects.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/malicyln/javascript-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/js-projects.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/malicyln/Html-Css-projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/html-css-projects.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
-<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/js-questions.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/malicyln/javascript-questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/js-questions.png" style="height:60px; width: fit-content;" ></a>
 </br>
 
 <h2 align="center">My Top Projects</h2>
