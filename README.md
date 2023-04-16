@@ -11,10 +11,15 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-ali-ceylan/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:malicylnn@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@malicylnn)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malicyln" alt="muhammet-ali-ceylan"/></p>
+
 </br>
+
 <h2 align="center">:rocket:Technical Skills</h2>
+
 <div align="center">
+
 <img
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
         alt="Reactjs"
