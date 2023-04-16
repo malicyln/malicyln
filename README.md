@@ -65,7 +65,7 @@
 </div>
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-## :star2: My Projects:
+## :star2: My Projects: <br>
 <a href="https://github.com/axel-ac/React-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/react-projects.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/js-projects.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="/img/html-css-projects.png" style="height:60px; width: fit-content;" ></a>
@@ -80,6 +80,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Bootstrap Web Page](https://it-company-bootstrap.netlify.app) <h3>[Repo](https://github.com/malicyln/it-company-bootstrap)</h3> | Boostrap |![Boostrap-Project](https://user-images.githubusercontent.com/101462384/230403480-8ec28bc0-d6a7-451d-9b99-59b37a2649bb.gif)
 [Search Images Web Page](https://resimsec.netlify.app) <h3>[Repo](https://github.com/malicyln/SearcImg)</h3> | Html, Css, JavaScript |![Search Images](https://user-images.githubusercontent.com/101462384/228822439-96b7d078-fff8-45ea-9620-a8fa47c8546b.gif)
 [Snake Games Web Page](https://malice-snake-game.netlify.app) <h3>[Repo](https://github.com/malicyln/snake-game)</h3> | Html, Css, JavaScript |![Search Images](https://user-images.githubusercontent.com/101462384/230424419-72d3475a-1978-44da-9dc5-2e3d50281ba3.gif)
+
+
+
+
+
 <br>
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
